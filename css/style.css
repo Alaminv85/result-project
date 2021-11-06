@@ -1,0 +1,56 @@
+body 
+{   
+    background-color:#F2F2F2;
+    font-family:Verdana;
+    /*color:#00AAE9;*/
+}
+
+#main{
+  background-color:#EEFAFF;
+  width:100%;
+  font-size:11px;
+  text-align:center;
+  border:solid 1px Gray;
+    height: 269px;
+}
+#tblDisplay
+{
+    width:78%;
+     border:solid 5px Gray;
+  font-size:10px;
+}
+#instructions
+{
+    width:100%;
+    vertical-align:top;
+    text-align:left;
+    font-size:11px;
+    background-color:#FEFCF5; 
+    border-bottom:solid 1px Gray;   
+    display: none;
+}
+
+.print
+{
+width:100%;
+    color:Black;
+   background-color:White;  
+  font-size:11px;
+  border:solid 1px Black;
+}
+.numbers
+{
+font-weight:bold;
+color:White;
+border:solid 1px orange;
+background-color:Orange;
+}
+.print_instruction
+{
+
+width:75%;
+    color:Black;
+   background-color:White;  
+  font-size:11px;
+  border:solid 1px Black;
+}
